@@ -1,4 +1,7 @@
 /.env
+app_debug.log
+test/
+logs/
 
 # Python virtual environment
 venv/
