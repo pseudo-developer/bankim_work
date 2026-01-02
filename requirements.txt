@@ -1,7 +1,4 @@
 certifi
-Faker
-google-generativeai
 python-dotenv
 openai
 pandas
-bbbb
