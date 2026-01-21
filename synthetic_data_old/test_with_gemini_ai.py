@@ -1,3 +1,13 @@
+# requirements.txt - particular to this file run :
+# certifi
+# Faker
+# google-generativeai
+# python-dotenv
+
+# .env file:
+# GEMINI_API_KEY=""
+
+
 import os
 import certifi # Ensure 'pip install certifi' is run
 import csv
